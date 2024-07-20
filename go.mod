@@ -1,3 +1,3 @@
-module github.com/0101binarybard/greetings/v0.0.1
+module github.com/0101binarybard/greetings
 
 go 1.22.5
